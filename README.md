@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GianCarloRumachella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning flutter to make awesome apps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> giancarlo.rumachella@gmail.com
+ Hi, I’m @GianCarloRumachella
+ I’m currently learning flutter to make awesome apps
+ How to reach me -> giancarlo.rumachella@gmail.com
                      
 
 <!---
